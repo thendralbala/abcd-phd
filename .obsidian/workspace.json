@@ -33,8 +33,7 @@
               "title": "A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14b33e6edb79409",
+  "active": "3f7c58741b3fb746",
   "lastOpenFiles": [
-    "docs/978-3-031-55642-5.pdf",
     "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
     "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf",
+    "docs/978-3-031-55642-5.pdf",
     "docs/sarkar_2024_GenAI_critical.pdf",
     "docs/3545945.3569759.pdf",
     "docs/2602.20021v1.pdf",
