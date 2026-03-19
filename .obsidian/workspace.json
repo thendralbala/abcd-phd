@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "41faf8f1f9f091b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e4f99e84083de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f7c58741b3fb746",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/978-3-031-55642-5.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "978-3-031-55642-5"
+            }
+          },
+          {
+            "id": "c14b33e6edb79409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3d53648a7113cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d52101bdd9984f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1606ad270dc48bd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "849cfdcbf2cbeb7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36056e05c79e1bd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01afaa3c4a2efe1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3cfdbada63cac0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4046f386604dda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "fffa4ed46ba04caf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "5e628cb33fe08f49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7090f3822a082998",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2385b75043888dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "f8ac35684fa1140d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c14b33e6edb79409",
+  "lastOpenFiles": [
+    "docs/978-3-031-55642-5.pdf",
+    "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
+    "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf",
+    "docs/sarkar_2024_GenAI_critical.pdf",
+    "docs/3545945.3569759.pdf",
+    "docs/2602.20021v1.pdf",
+    "Notes/ChatGPT vs. DeepSeek A Comparative Study on AI-Based Code Generation (2502.18467v1).md",
+    "README.md",
+    "Notes/Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler.md",
+    "Literature Notes/ChatGPT vs. DeepSeek A Comparative Study on AI-Based Code Generation (2502.18467v1).md",
+    "Assets/ChatGPT vs. DeepSeek A Comparative Study on AI-Based Code Generation (2502.18467v1).pdf",
+    "Literature Notes",
+    "Assets",
+    "Notes"
+  ]
+}

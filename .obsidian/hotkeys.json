@@ -1,0 +1,18 @@
+{
+  "paper_importer:import_pdf_from_arxiv": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "paper_importer:import_metadata_from_arxiv": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
