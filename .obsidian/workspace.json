@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "311fe37c36ca7a09",
+        "id": "e28eb4e13b6dc787",
         "type": "tabs",
-        "dimension": 53.48984771573604,
         "children": [
           {
-            "id": "3f7c58741b3fb746",
+            "id": "142e33a693c1d15a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c7e4f99e84083de5",
-        "type": "tabs",
-        "dimension": 46.51015228426396,
-        "children": [
-          {
-            "id": "c14b33e6edb79409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1)"
+              "title": "New tab"
             }
           }
         ]
@@ -200,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +187,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c14b33e6edb79409",
+  "active": "1606ad270dc48bd4",
   "lastOpenFiles": [
     "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf",
     "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
