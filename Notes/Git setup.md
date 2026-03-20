@@ -1,1 +1,1 @@
-Today I set up git on obsidian
+Today I set up git on obsidian. Is this getting pushed?
