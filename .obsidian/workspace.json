@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e4f99e84083de5",
+        "id": "311fe37c36ca7a09",
         "type": "tabs",
+        "dimension": 53.48984771573604,
         "children": [
           {
             "id": "3f7c58741b3fb746",
@@ -13,12 +14,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "docs/978-3-031-55642-5.pdf"
+                "file": "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "978-3-031-55642-5"
+              "title": "A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1)"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c7e4f99e84083de5",
+        "type": "tabs",
+        "dimension": 46.51015228426396,
+        "children": [
           {
             "id": "c14b33e6edb79409",
             "type": "leaf",
@@ -207,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f7c58741b3fb746",
+  "active": "c14b33e6edb79409",
   "lastOpenFiles": [
-    "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
     "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf",
+    "Notes/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).md",
     "docs/978-3-031-55642-5.pdf",
     "docs/sarkar_2024_GenAI_critical.pdf",
     "docs/3545945.3569759.pdf",
