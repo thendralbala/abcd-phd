@@ -1,0 +1,1 @@
+Today I set up git on obsidian
