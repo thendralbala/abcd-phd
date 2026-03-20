@@ -11,14 +11,10 @@
             "id": "142e33a693c1d15a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Git setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git setup"
+              "title": "New tab"
             }
           }
         ]
@@ -197,7 +193,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "142e33a693c1d15a",
+  "active": "f8ac35684fa1140d",
   "lastOpenFiles": [
     "Notes/Git setup.md",
     "docs/A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation (2411.07586v1).pdf",
